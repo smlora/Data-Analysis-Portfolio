@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/smlora/Data-Analysis-Portfolio/new/main/README.md#about)
 - [Portfolio Projects](https://github.com/smlora/Data-Analysis-Portfolio/new/main/README.md#portfolio-projects)
   - Python
-    - [Example 1](Link)
+    - [CIFAR-10 Image Classification with CNN (Keras)](https://github.com/smlora/cifar10-cnn/blob/main/notebooks/Steven_Lora_MSIT675_Project1.ipynb))
     - [Example 2](Link)  
   - SQL
     - [Example 1](Link)
@@ -29,18 +29,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Project Name Example 1 
-**Code:** [`name`](link)
+### CIFAR-10 Deep Learning Classifier
+**Code:** [CIFAR-10 Image Classification with CNN (Keras)](https://github.com/smlora/cifar10-cnn/blob/main/notebooks/Steven_Lora_MSIT675_Project1.ipynb))
 
-**Goal:** To determine .....
+**Goal:** To build and train a Convolutional Neural Network capable of accurately classifying images from the CIFAR-10 dataset, achieving at least 85% validation accuracy within 40 epochs.
 
-**Description:** The project focused on analyzing a dataset of .....
+**Description:** This project focused on classifying a dataset of 60,000 color images (10 classes) using a deep learning model. The dataset included images of airplanes, animals, vehicles, and more. The model was developed in Keras with TensorFlow backend and trained using data augmentation and dropout for regularization. Performance was tracked using accuracy and loss metrics throughout training.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** deep learning, image classification, CNN architecture design, data preprocessing, model evaluation, visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib.
 
-**Results:** Using Python functions the analysis revealed ......
+**Results:** The final CNN model achieved over 85% validation accuracy by the 40th epoch. Training results, model architecture, and performance metrics are all documented in the notebook.
 
 
 ### Project Name Example 2 
